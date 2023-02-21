@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/*added nav to define what part of the html docu it is attatched too*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
